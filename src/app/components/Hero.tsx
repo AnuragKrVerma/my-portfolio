@@ -1,5 +1,5 @@
 "use client";
-import { FC, JSX } from "react";
+
 import { motion } from "framer-motion";
 import cursor from "../assets/icon1.png";
 import lighting from "../assets/icon2.png";
