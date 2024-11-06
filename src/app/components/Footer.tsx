@@ -14,6 +14,7 @@ const Footer = () => {
           <a
             href="https://github.com/AnuragKrVerma"
             className="hover:text-grey-300 flex items-center space-x-2"
+            target="_blank"
           >
             <FaGithub size={24} />
             <span>Github</span>
@@ -21,6 +22,7 @@ const Footer = () => {
           <a
             href="https://www.linkedin.com/in/anurag0verma/"
             className="hover:text-grey-300 flex items-center space-x-2"
+            target="_blank"
           >
             <FaLinkedin size={24} />
             <span>LinkedIn</span>
