@@ -62,7 +62,7 @@ const Hero = () => {
 
           <div className="flex justify-center items-center mt-20">
             <a
-              href="https://docs.google.com/document/d/1LstEgqxQfHGHG8tT_BBhQIZg8efGeZbzhfL0gRqMk3o/edit?usp=drive_link"
+              href="https://docs.google.com/document/d/1f-0HHQSd4eFbeCfzOlVb76yRFSBWybo5OtfxAXfB-Es/edit?usp=sharing"
               className="text-white font-bold text-xl bg-orange-500 px-8 py-4 rounded-lg hover:bg-orange-400"
               target="_blank"
             >
