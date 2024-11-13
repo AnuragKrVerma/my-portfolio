@@ -30,7 +30,7 @@ const Contact = () => {
                 alt="email"
                 className="h-[110px] w-auto mr-6"
               />
-              <p className="text-xl"> 211006@kit.ac.in </p>
+              <p className="text-xl"> anuragkrverma132@gmail.com </p>
             </li>
           </ul>
         </div>
